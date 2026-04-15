@@ -7,3 +7,17 @@ body {
 * {
   box-sizing: border-box;
 }
+
+button,
+select,
+textarea,
+input {
+  font-family: inherit;
+  font-size: 14px;
+  outline: none;
+  border: 1px solid #dbe2ea;
+}
+
+button:hover {
+  opacity: 0.95;
+}
