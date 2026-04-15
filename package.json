@@ -22,3 +22,6 @@
     "vite": "^5.2.0"
   }
 }
+git add .
+git commit -m "Fix package json"
+git push
